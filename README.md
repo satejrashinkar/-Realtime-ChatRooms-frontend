@@ -1,4 +1,5 @@
-# whatsapp-frontend
+# 
+Realtime-ChatRooms-frontend
 
 WhatsApp frontend built in REACT.<br/>
 Read more about React <a href= "https://reactjs.org/"> here</a> <br/>
